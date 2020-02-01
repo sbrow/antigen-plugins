@@ -1,0 +1,10 @@
+# brew
+alias brin='brew install'
+alias brre='brew remove'
+alias brse='brew search'
+alias brup='brew update && brew upgrade && brew cask upgrade && brew cleanup'
+alias cain='brew cask install'
+alias care='brew cask remove'
+alias restart='brew services restart'
+alias start='brew services start'
+alias stop='brew services stop'
