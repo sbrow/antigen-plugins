@@ -1,5 +1,7 @@
 # partial completion suggestions
-zstyle ':completion:*' list-suffixes
+
+# TOOD: Breaks artisan plugin.
+# zstyle ':completion:*' list-suffixes
 zstyle ':completion:*' expand prefix suffix
 
 # Set options
